@@ -33,10 +33,4 @@ AI/ML experiments, and simulations that make abstract ideas tangible.
 - **[SimPhysX](https://github.com/magorokhoov/SimPhysX)** — a small simulator of physical processes.
 - **[CellsInBox](https://github.com/magorokhoov/CellsInBox)** — artificial life in a box: simple agents, mutation, and evolution.
 
-## Currently
-
-- Building learning tools that work without a cloud account.
-- Exploring small models that run on ordinary hardware.
-- Using simulations as explanations, not just demonstrations.
-
 <p align="center"><i>Learning by building. Teaching by showing.</i></p>
